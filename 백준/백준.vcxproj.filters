@@ -69,5 +69,41 @@
     <ClCompile Include="2741n2742.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2920.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8958.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10818.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="사칙연산 관련(10869, 10950~10954).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11654.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2753.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2884.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2908.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3052.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9498.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10171,10172.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
